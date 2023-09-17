@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dwuHQaxptelhkVICVYXzubkYkzGoOB/v0TJ8VPMNw9915hsr+qTV8uTAPRaLZWspxCNqpp37r3YrE25+7kfpQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\humna.ghaffar\\Downloads\\entity-framework-core-codefirst-db-migration-master\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\humna.ghaffar\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\humna.ghaffar\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
